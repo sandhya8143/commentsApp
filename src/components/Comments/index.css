@@ -1,0 +1,56 @@
+.but {
+  display: flex;
+  align-items: center;
+}
+.butt {
+  background-color: #0284c7;
+  color: #ffffff;
+  border-width: 0px;
+  border-radius: 4px;
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+.inputEl {
+  margin-bottom: 10px;
+  height: 30px;
+}
+.textContainer {
+  display: flex;
+  justify-content: space-between;
+}
+.button {
+  width: 120px;
+  background-color: #0284c7;
+  color: #ffffff;
+  border-width: 0px;
+  border-radius: 4px;
+  height: 30px;
+  margin-bottom: 20px;
+}
+.areaText {
+  margin-bottom: 20px;
+}
+.image {
+  height: 200px;
+  width: 250px;
+}
+.rightText {
+  display: flex;
+  flex-direction: column;
+}
+.mainContainer {
+  box-shadow: 5px 2px 5px 8px #dee0e3;
+  margin: 10px;
+
+  background-size: cover;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+.whiteContainer {
+  height: 100vh;
+  background-color: #ffffff;
+  display: flex;
+
+  justify-content: center;
+}
